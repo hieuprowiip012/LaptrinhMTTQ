@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\KeThua\bin\Debug\KeThua.exe.config
+C:\Users\Admin\source\repos\KeThua\bin\Debug\KeThua.exe
+C:\Users\Admin\source\repos\KeThua\bin\Debug\KeThua.pdb
+C:\Users\Admin\source\repos\KeThua\obj\Debug\KeThua.exe
+C:\Users\Admin\source\repos\KeThua\obj\Debug\KeThua.pdb

@@ -1,0 +1,10 @@
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\netcoreapp3.1\PhuongTrinhBac1.AssemblyInfoInputs.cache
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\netcoreapp3.1\PhuongTrinhBac1.AssemblyInfo.cs
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.exe
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.deps.json
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.runtimeconfig.json
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.runtimeconfig.dev.json
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.dll
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\netcoreapp3.1\PhuongTrinhBac1.pdb
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\netcoreapp3.1\PhuongTrinhBac1.dll
+C:\Users\ad\source\repos\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\netcoreapp3.1\PhuongTrinhBac1.pdb

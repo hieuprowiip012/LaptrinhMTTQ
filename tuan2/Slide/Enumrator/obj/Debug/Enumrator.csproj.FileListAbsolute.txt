@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Enumrator\bin\Debug\Enumrator.exe.config
+C:\Users\Admin\source\repos\Enumrator\bin\Debug\Enumrator.exe
+C:\Users\Admin\source\repos\Enumrator\bin\Debug\Enumrator.pdb
+C:\Users\Admin\source\repos\Enumrator\obj\Debug\Enumrator.exe
+C:\Users\Admin\source\repos\Enumrator\obj\Debug\Enumrator.pdb

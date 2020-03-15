@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\SampleProperty\bin\Debug\SampleProperty.exe.config
+C:\Users\Admin\source\repos\SampleProperty\bin\Debug\SampleProperty.exe
+C:\Users\Admin\source\repos\SampleProperty\bin\Debug\SampleProperty.pdb
+C:\Users\Admin\source\repos\SampleProperty\obj\Debug\SampleProperty.exe
+C:\Users\Admin\source\repos\SampleProperty\obj\Debug\SampleProperty.pdb

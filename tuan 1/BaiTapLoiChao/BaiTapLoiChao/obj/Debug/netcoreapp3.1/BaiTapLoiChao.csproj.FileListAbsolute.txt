@@ -1,0 +1,11 @@
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.exe
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.deps.json
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.runtimeconfig.json
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.runtimeconfig.dev.json
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.dll
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.pdb
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.csprojAssemblyReference.cache
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.AssemblyInfoInputs.cache
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.AssemblyInfo.cs
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.dll
+C:\Users\ad\source\repos\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.pdb

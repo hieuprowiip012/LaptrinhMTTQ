@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Testproject1\bin\Debug\Testproject1.exe.config
+C:\Users\Admin\source\repos\Testproject1\bin\Debug\Testproject1.exe
+C:\Users\Admin\source\repos\Testproject1\bin\Debug\Testproject1.pdb
+C:\Users\Admin\source\repos\Testproject1\obj\Debug\Testproject1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Testproject1\obj\Debug\Testproject1.exe
+C:\Users\Admin\source\repos\Testproject1\obj\Debug\Testproject1.pdb

@@ -1,0 +1,9 @@
+C:\Users\ad\source\repos\tuan1\form1\form1\bin\Debug\form1.exe.config
+C:\Users\ad\source\repos\tuan1\form1\form1\bin\Debug\form1.exe
+C:\Users\ad\source\repos\tuan1\form1\form1\bin\Debug\form1.pdb
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.exe
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.pdb
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.frm1.resources
+C:\Users\ad\source\repos\tuan1\form1\form1\obj\Debug\form1.Form2.resources

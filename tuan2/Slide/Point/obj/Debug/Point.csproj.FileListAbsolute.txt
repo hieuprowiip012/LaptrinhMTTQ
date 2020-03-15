@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Point\bin\Debug\Point.exe.config
+C:\Users\Admin\source\repos\Point\bin\Debug\Point.exe
+C:\Users\Admin\source\repos\Point\bin\Debug\Point.pdb
+C:\Users\Admin\source\repos\Point\obj\Debug\Point.exe
+C:\Users\Admin\source\repos\Point\obj\Debug\Point.pdb

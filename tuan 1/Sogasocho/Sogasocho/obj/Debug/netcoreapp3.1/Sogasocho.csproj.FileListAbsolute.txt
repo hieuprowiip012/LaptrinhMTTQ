@@ -1,0 +1,10 @@
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.exe
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.deps.json
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.runtimeconfig.json
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.runtimeconfig.dev.json
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.dll
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\bin\Debug\netcoreapp3.1\Sogasocho.pdb
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\obj\Debug\netcoreapp3.1\Sogasocho.AssemblyInfoInputs.cache
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\obj\Debug\netcoreapp3.1\Sogasocho.AssemblyInfo.cs
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\obj\Debug\netcoreapp3.1\Sogasocho.dll
+C:\Users\ad\source\repos\Sogasocho\Sogasocho\obj\Debug\netcoreapp3.1\Sogasocho.pdb

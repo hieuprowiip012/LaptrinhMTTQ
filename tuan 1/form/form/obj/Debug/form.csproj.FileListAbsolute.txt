@@ -1,0 +1,9 @@
+C:\Users\ad\source\repos\tuan1\form\form\bin\Debug\form.exe.config
+C:\Users\ad\source\repos\tuan1\form\form\bin\Debug\form.exe
+C:\Users\ad\source\repos\tuan1\form\form\bin\Debug\form.pdb
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.csprojAssemblyReference.cache
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.Form1.resources
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.exe
+C:\Users\ad\source\repos\tuan1\form\form\obj\Debug\form.pdb

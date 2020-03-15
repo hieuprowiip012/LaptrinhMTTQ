@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Admin\source\repos\Indexer\bin\Debug\Indexer.exe
+C:\Users\Admin\source\repos\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Admin\source\repos\Indexer\obj\Debug\Indexer.exe
+C:\Users\Admin\source\repos\Indexer\obj\Debug\Indexer.pdb

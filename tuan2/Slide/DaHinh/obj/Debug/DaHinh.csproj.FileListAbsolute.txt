@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\DaHinh\bin\Debug\DaHinh.exe.config
+C:\Users\Admin\source\repos\DaHinh\bin\Debug\DaHinh.exe
+C:\Users\Admin\source\repos\DaHinh\bin\Debug\DaHinh.pdb
+C:\Users\Admin\source\repos\DaHinh\obj\Debug\DaHinh.exe
+C:\Users\Admin\source\repos\DaHinh\obj\Debug\DaHinh.pdb

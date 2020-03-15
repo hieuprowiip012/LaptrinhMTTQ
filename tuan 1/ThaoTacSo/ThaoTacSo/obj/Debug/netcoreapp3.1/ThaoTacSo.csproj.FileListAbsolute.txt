@@ -1,0 +1,10 @@
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.AssemblyInfoInputs.cache
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.AssemblyInfo.cs
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.exe
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.deps.json
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.runtimeconfig.json
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.runtimeconfig.dev.json
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.dll
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.pdb
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.dll
+C:\Users\ad\source\repos\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.pdb

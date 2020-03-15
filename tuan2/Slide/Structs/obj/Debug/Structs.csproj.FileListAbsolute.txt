@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Structs\bin\Debug\Structs.exe.config
+C:\Users\Admin\source\repos\Structs\bin\Debug\Structs.exe
+C:\Users\Admin\source\repos\Structs\bin\Debug\Structs.pdb
+C:\Users\Admin\source\repos\Structs\obj\Debug\Structs.exe
+C:\Users\Admin\source\repos\Structs\obj\Debug\Structs.pdb

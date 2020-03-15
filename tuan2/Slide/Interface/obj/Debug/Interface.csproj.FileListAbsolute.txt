@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Interface\bin\Debug\Interface.exe.config
+C:\Users\Admin\source\repos\Interface\bin\Debug\Interface.exe
+C:\Users\Admin\source\repos\Interface\bin\Debug\Interface.pdb
+C:\Users\Admin\source\repos\Interface\obj\Debug\Interface.exe
+C:\Users\Admin\source\repos\Interface\obj\Debug\Interface.pdb

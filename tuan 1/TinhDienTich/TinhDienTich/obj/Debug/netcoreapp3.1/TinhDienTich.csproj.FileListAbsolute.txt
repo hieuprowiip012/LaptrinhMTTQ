@@ -1,0 +1,10 @@
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.exe
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.deps.json
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.json
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.dev.json
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.dll
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.pdb
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfoInputs.cache
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfo.cs
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.dll
+C:\Users\ad\source\repos\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.pdb
